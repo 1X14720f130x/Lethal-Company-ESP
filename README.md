@@ -13,18 +13,18 @@ Lightweight ESP and Chams
 
 # How to use 
 
-Download a mono-injector like [MonoJabber](https://github.com/AWilliams17/MonoJabber) 
-
-1. Open the game
-2. you can inject using `.\MonoJabber.exe "Lethal Company.exe" "<fullPath>\LC_Internal.dll" "LC_Internal" "Loader" "Load"`
-3. Press `insert` to show the menu or `end` to unload the cheat. 
-
+1. Download a mono-injector like [MonoJabber](https://github.com/AWilliams17/MonoJabber) 
+2. Open the game
+3. you can inject using `.\MonoJabber.exe "Lethal Company.exe" "<fullPath>\LC_Internal.dll" "LC_Internal" "Loader" "Load"`
+4. Press `insert` to show the menu or `end` to unload the cheat. 
 
 # Info 
 
 - Namespace : `LC_Internal`
 - Class : `Loader`
 - Method : `Load`
+
+If possible play in **windowed mode using a small resolution**, the ESP will look better !!
 
 
 # Credits
