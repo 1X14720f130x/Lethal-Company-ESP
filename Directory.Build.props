@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <!-- Or use "latest" to always use the latest version -->
+    <!-- .\smi.exe inject -p "Lethal Company" -a LC_Internal.dll -n LC_Internal -c Loader -m Load -->
+  </PropertyGroup>
+</Project>
